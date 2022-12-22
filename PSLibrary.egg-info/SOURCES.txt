@@ -1,0 +1,9 @@
+README.md
+setup.py
+PSLibrary/__init__.py
+PSLibrary/helpers.py
+PSLibrary.egg-info/PKG-INFO
+PSLibrary.egg-info/SOURCES.txt
+PSLibrary.egg-info/dependency_links.txt
+PSLibrary.egg-info/requires.txt
+PSLibrary.egg-info/top_level.txt
